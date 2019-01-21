@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.8.10, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.8.10, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo-228x252.png" type="image/x-icon">
+  <meta name="description" content="">
+  <title>Trainee UTiC 2019</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/animatecss/animate.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+  <link rel="stylesheet" href="style.less" class="cid-rfLTspsoay" id="menu1-m" data-rv-view="178"><section class="menu cid-rfLTspsoay" once="menu" id="menu1-m">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="#top">
+                         <img src="assets/images/logo-228x252.png" alt="Mobirise" title="" style="height: 5.9rem;">
+                    </a>
+                </span>
+                
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
+                         <a class="nav-link link text-white display-4" href="#top"><span class="mbri-home mbr-iconfont mbr-iconfont-btn"></span>HOME</a>            
+                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="index.html#counters1-h"><span class="mbri-target mbr-iconfont mbr-iconfont-btn"></span>COMO FUNCIONA</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="index.html#info1-i" target="_blank"><span class="mbri-rocket mbr-iconfont mbr-iconfont-btn"></span>VALORES</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="http://uticjr.com/" target="_blank"><span class="mbri-star mbr-iconfont mbr-iconfont-btn"></span>SITE UTiC</a></li></ul>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-4" href="assets/files/ESTATUTO DA EMPRESA JÚNIOR DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO DA UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA - UTIC (Reanalisado) .docx.pdf" target="_blank"><span class="mbri-file mbr-iconfont mbr-iconfont-btn"></span>
+                    ESTATUTO SOCIAL</a></div>
+        </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="https://mobirise.info/k">develop free website</a></section><section class="header12 cid-rffXx50uVR mbr-fullscreen mbr-parallax-background" id="header12-0">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(75, 0, 130);">
+    </div>
+
+    <div class="container  ">
+            <div class="media-container">
+                <div class="col-md-12 align-center">
+                    <h1 class="mbr-section-title pb-3 mbr-white mbr-bold mbr-fonts-style display-1"><br><br>PROCESSO SELETIVO <br>TRAINEE <a href="http://uticjr.com/" target="_blank">UTiC</a> 2019</h1>
+                    <p class="mbr-text pb-3 mbr-white mbr-fonts-style display-2"><strong>INSCRIÇÕES<br>21 à 25 de Janeiro</strong></p>
+                    <div class="mbr-section-btn align-center py-2"><a class="btn btn-md btn-success display-4" href="index.html#header15-c">FAZER INSCRIÇÃO</a></div>
+
+                    <div class="icons-media-container mbr-white">
+                        <div class="card col-12 col-md-6">
+                            
+                            <h5 class="mbr-fonts-style display-5"></h5>
+                        </div>
+
+                        <div class="card col-12 col-md-6">
+                            
+                            <h5 class="mbr-fonts-style display-5"></h5>
+                        </div>
+
+                        
+
+                        
+                    </div>
+                </div>
+            </div>
+    </div>
+
+    <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
+        <a href="#next">
+            <i class="mbri-down mbr-iconfont"></i>
+        </a>
+    </div>
+</section>
+
+<section class="counters1 counters cid-rfKJW8rhvC" id="counters1-h">
+
+    
+
+    
+
+    <div class="container">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
+            Como Funciona?</h2>
+        <h3 class="mbr-section-subtitle mbr-fonts-style display-5">
+            O Processo Seletivo Treinee UTIC acontece uma vez ao ano e tem como objetivo &nbsp;<br>desenvolver às habilidades necessárias do estudante para preparar e integra-ló ao mercado de trabalho.<br>Nessa fase inicial não será cobrado conhecimento específico. Explico melhor abaixo&nbsp;</h3>
+
+        <div class="container pt-4 mt-2">
+            <div class="media-container-row">
+                <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
+                    <div class="panel-item p-3">
+                        <div class="card-img pb-3">
+                            <span class="mbr-iconfont mbri-gift"></span>
+                        </div>
+
+                        <div class="card-text">
+                            <h3 class="count pt-3 pb-3 mbr-fonts-style display-2">APRESENTAR</h3>
+                            <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">
+                                Pitch Pessoal</h4>
+                            <p class="mbr-content-text mbr-fonts-style display-7">Diga a todos quem é você, o que faz, qual seu hobby e o que tem de bom e interessante para agregar à UTIC caso passe no processo seletivo.<br>Você tem 1 minuto para se apresentar.</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
+                    <div class="panel-item p-3">
+                        <div class="card-img pb-3">
+                            <span class="mbr-iconfont mbri-features"></span>
+                        </div>
+                        <div class="card-text">
+                            <h3 class="count pt-3 pb-3 mbr-fonts-style display-2">
+                                  DINÂMICA</h3>
+                            <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">
+                                Plano de Negócio (Canvas)</h4>
+                            <p class="mbr-content-text mbr-fonts-style display-7">Na Dinâmica se formará grupos de 3 a 4 pessoas para Criar, Desenvolver e Vender juntas o Plano de Negócio de um produto e ou serviço para resolver a demanda de uma empresa. A demanda e a empresa serão reveladas no dia da dinâmica.<br></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
+                    <div class="panel-item p-3">
+                        <div class="card-img pb-3">
+                            <span class="mbr-iconfont mbri-target"></span>
+                        </div>
+                        <div class="card-text">
+                            <h3 class="count pt-3 pb-3 mbr-fonts-style display-2">
+                                  ENTREVISTA</h3>
+                            <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">
+                                The Boss</h4>
+                            <p class="mbr-content-text mbr-fonts-style display-7">
+                                    Por fim e não menos importante, os participantes aprovados nas etapas anteriores serão chamados para uma entrevista onde abordaremos; áreas de atuacão, vocação e perfil profissional.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+
+
+                
+            </div>
+        </div>
+   </div>
+</section>
+
+<section class="mbr-section info1 cid-rfLNMcfgjx" id="info1-i">
+
+    
+
+    
+    <div class="container">
+        <div class="row justify-content-center content-row">
+            <div class="media-container-column title col-12 col-lg-7 col-md-6">
+                
+                <h2 class="align-left mbr-bold mbr-fonts-style display-2">
+                    VALORES</h2>
+            </div>
+            <div class="media-container-column col-12 col-lg-3 col-md-4">
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="testimonials3 cid-rfg3n4FXe7" id="testimonials3-6">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="media-content px-3 align-self-center mbr-white py-2">
+                <p class="mbr-text testimonial-text mbr-fonts-style display-2">COMPROMISSO</p>
+                <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7"><span style="font-weight: normal;">Compromisso com resultados, foco e muita vontade de aprender é o que nossos TRAINESS </span><br><span style="font-weight: normal;">precisam.<br></span><span style="font-weight: normal;">&nbsp;</span></p>
+                <p class="mbr-author-desc mbr-fonts-style display-7">Planejar, executar e apreender com os resultados<br> é o nosso ciclo.</p>
+            </div>
+
+            <div class="mbr-figure pl-lg-5" style="width: 130%;">
+              <img src="assets/images/desktop-man-dribbble-1-800x600.jpg" alt="" title="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="testimonials3 cid-rfg2rXPRi4" id="testimonials3-5">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="media-content px-3 align-self-center mbr-white py-2">
+                <p class="mbr-text testimonial-text mbr-fonts-style display-2">EMPREENDER</p>
+                <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7"><span style="font-weight: normal;">"A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro." - ALBERT EINSTEIN.</span></p>
+                <p class="mbr-author-desc mbr-fonts-style display-7">Persista nos seus sonhos e não desista nas dificuldades. O principal você já tem. Imaginação.</p>
+            </div>
+
+            <div class="mbr-figure pl-lg-5" style="width: 195%;">
+              <img src="assets/images/wotip-get-ready-to-conquer-the-world-2-1024x768.jpg" alt="" title="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="testimonials3 cid-rfg3obxmRm" id="testimonials3-7">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="media-content px-3 align-self-center mbr-white py-2">
+                <p class="mbr-text testimonial-text mbr-fonts-style display-2">
+                   TRANSPARÊNCIA</p>
+                <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7"><span style="font-weight: normal;">Respeitar às diferenças e ser você mesmo é um&nbsp;</span><br><span style="font-weight: normal;">ótimo caminho para desenvolver conexões,&nbsp;</span><br><span style="font-weight: normal;">trabalhos e experiência ao longo da sua jornada</span><br><span style="font-weight: normal;">como Trainee UTiC.<br></span><br><span style="font-weight: normal;"><br></span></p>
+                <p class="mbr-author-desc mbr-fonts-style display-7">Para nós, mais impostante que o trabalho são&nbsp;<br>os valores de cada um.</p>
+            </div>
+
+            <div class="mbr-figure pl-lg-5" style="width: 100%;">
+              <img src="assets/images/transparencia-800x600.jpg" alt="" title="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="testimonials3 cid-rfg3p5eRqc" id="testimonials3-8">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="media-content px-3 align-self-center mbr-white py-2">
+                <p class="mbr-text testimonial-text mbr-fonts-style display-2">SINERGIA</p>
+                <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7"><span style="font-weight: normal;">Como você já deve ter percebido, ninguém faz nada sozinho e grandes resultados&nbsp;</span><span style="font-weight: normal;">só são alcançados a partir da colaboração e compreensão mútua entre um time.</span><br></p>
+                <p class="mbr-author-desc mbr-fonts-style display-7">Tenha isso em mente e chegue mais longe.</p>
+            </div>
+
+            <div class="mbr-figure pl-lg-5" style="width: 120%;">
+              <img src="assets/images/sinergia-800x600.jpg" alt="" title="">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-rfKk18o4Tq mbr-fullscreen" data-bg-video="https://www.youtube.com/watch?v=iu3qoIsGzUM" id="header15-c">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(75, 0, 130);"></div>
+
+    <div class="container align-right">
+<div class="row">
+    <div class="mbr-white col-lg-8 col-md-7 content-container">
+        <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">TRAINEE UTiC 2019</h1>
+        <p class="mbr-text pb-3 mbr-fonts-style display-5">Increva-se no processo seletivo Trainee Utic 2019 e dê um upgrade na sua carreira profissional e acadêmica.&nbsp;<br>Fundada em 2016 a Utic vem desenvolvendo projetos dentro e fora da universidade. <br>Oferecemos para nossos Trainees cursos de capacitação na área de T.I; Desenvolvimento Web, Gestão de Negócios, a experiência de desenvolver em equipe, empreender e aprender na prática tudo aquilo que o mercado de trabalho espera de um profissinal completo. Não perca essa oportunidade, inscreva-se agora mesmo.&nbsp;<br>Que a força esteja com você!</p>
+    </div>
+    <div class="col-lg-4 col-md-5">
+    <div class="form-container">
+        <div class="media-container-column" data-form-type="formoid">
+            <div data-form-alert="" hidden="" class="align-center">Obrigado por se inscrever!
+Aguarde as próximas instruções por email.</div>
+            <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="K33zphK9ND3cLXn9ozT+4abVsGYMmgFETfWJRJjh72H1dEbkJ3Av5aTbrs4nyKB53LXHNadzCKJIDSPrLIw32Mi07wcsp5sB81ChI1/6YScFzVUb65244fUn0Nk8GBMz">
+                <div data-for="name">
+                    <div class="form-group">
+                        <input type="text" class="form-control px-3" name="name" data-form-field="Name" placeholder="nome completo" required="" id="name-header15-c">
+                    </div>
+                </div>
+                <div data-for="email">
+                    <div class="form-group">
+                        <input type="email" class="form-control px-3" name="email" data-form-field="Email" placeholder="email" required="" id="email-header15-c">
+                    </div>
+                </div>
+                <div data-for="phone">
+                    <div class="form-group">
+                        <input type="tel" class="form-control px-3" name="phone" data-form-field="Phone" placeholder="telefone" id="phone-header15-c">
+                    </div>
+                </div>
+                <div class="form-group" data-for="message">
+                    <textarea type="text" class="form-control px-3" name="message" rows="7" placeholder="curso e número de matrícula" data-form-field="Message" id="message-header15-c"></textarea>
+                </div>
+                <span class="input-group-btn"><button href="" type="submit" class="btn btn-form btn-success display-7"><span class="mbri-rocket mbr-iconfont mbr-iconfont-btn"></span>CONFIRMAR&nbsp;<br>INSCRIÇÃO<br></button></span>
+            </form>
+        </div>
+    </div>
+    </div>
+</div>
+    </div>
+    
+</section>
+
+<section class="cid-rfkMFmXPMK" id="footer2-f">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row content mbr-white">
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <p class="mbr-text"><strong>Endereço</strong><br>
+                    <br>Av Perimetral - UFRA.<br>Instituto Cyber Espacial. &nbsp;<br>
+                    <br>
+                    <br><strong><br></strong><br><strong>Contato</strong>&nbsp;<br>Email: uticjr@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Phone: (91) 98912-8301 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br></p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <p class="mbr-text">
+                    <strong>Links</strong>
+                    <br>
+                    <br><a class="text-primary" href="http://uticjr.com/" target="_blank">Website </a>&nbsp;<br><a href="assets/files/ESTATUTO DA EMPRESA JÚNIOR DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO DA UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA - UTIC (Reanalisado) .docx.pdf" target="_blank">Estatuto Social</a><br>
+                    <a href="#top">Home</a><br><strong><br></strong><br><strong>Feedback</strong>
+                    <br>Por favor, qualquer dúvida<br>ou sugestão entre em contato<br>conosco.
+                </p>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.5247889810657!2d-48.437072249488125!3d-1.4590201362457298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a48d01e85df073%3A0xb188e18c0ed2cae5!2sUTIC+-+Empresa+J%C3%BAnior+de+Tecnologia+da+UFRA!5e0!3m2!1spt-BR!2sbr!4v1547655310988" allowfullscreen=""></iframe></div>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2019 UTiC - Todos Os Direitos Reservados.&nbsp;</p>
+                </div>
+                <div class="col-md-6">
+                    <div class="social-list align-right">
+                        <div class="soc-item">
+                            <a href="https://www.linkedin.com/company/utic/about/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-linkedin socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/uticjr/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.instagram.com/uticjr/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon"></span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/parallax/jarallax.min.js"></script>
+  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
+  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/formoid/formoid.min.js"></script>
+  
+  
+ <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i></i></a></div>
+    <input name="animation" type="hidden">
+  </body>
+</html>
